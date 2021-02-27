@@ -1,0 +1,10 @@
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\bin\Debug\TrabCalculadora.exe.config
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\bin\Debug\TrabCalculadora.exe
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\bin\Debug\TrabCalculadora.pdb
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.csprojAssemblyReference.cache
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.Form1.resources
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.Properties.Resources.resources
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.csproj.GenerateResource.cache
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.exe
+C:\Users\Crosz\Documents\Programas de estudo\ProgramasC\LP2\TrabCalculadora\TrabCalculadora\obj\Debug\TrabCalculadora.pdb
