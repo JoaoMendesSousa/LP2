@@ -1,0 +1,10 @@
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\bin\Debug\at2PesoIdeal.exe.config
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\bin\Debug\at2PesoIdeal.exe
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\bin\Debug\at2PesoIdeal.pdb
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.csprojAssemblyReference.cache
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.Form1.resources
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.Properties.Resources.resources
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.csproj.GenerateResource.cache
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.exe
+C:\Users\Crosz\source\repos\at2PesoIdeal\at2PesoIdeal\obj\Debug\at2PesoIdeal.pdb
