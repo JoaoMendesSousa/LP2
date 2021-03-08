@@ -1,0 +1,10 @@
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\bin\Debug\Classificador de triangulo.exe.config
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\bin\Debug\Classificador de triangulo.exe
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\bin\Debug\Classificador de triangulo.pdb
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador de triangulo.csprojAssemblyReference.cache
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador_de_triangulo.Form1.resources
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador_de_triangulo.Properties.Resources.resources
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador de triangulo.csproj.GenerateResource.cache
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador de triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador de triangulo.exe
+C:\Users\Crosz\source\repos\Classificador de triangulo\Classificador de triangulo\obj\Debug\Classificador de triangulo.pdb
