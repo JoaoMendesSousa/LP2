@@ -1,0 +1,10 @@
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\bin\Debug\CalcSalario.exe.config
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\bin\Debug\CalcSalario.exe
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\bin\Debug\CalcSalario.pdb
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.csprojAssemblyReference.cache
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.Form1.resources
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.Properties.Resources.resources
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.csproj.GenerateResource.cache
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.csproj.CoreCompileInputs.cache
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.exe
+C:\Users\Crosz\source\repos\CalcSalario\CalcSalario\obj\Debug\CalcSalario.pdb
